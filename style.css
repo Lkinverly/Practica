@@ -1,0 +1,73 @@
+body { 
+    font-family: Arial, sans-serif;
+    background: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #00aaff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: underline;
+}
+
+section {
+    padding: 20px;
+    background: white;
+}
+
+.table-container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 8px;
+} 
+
+.formulario {
+    padding: 20px;
+    background: white;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    background: #00c2cb;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    background: #f0f0f0;
+    padding: 20px;
+}
+
+.social-icons img {
+    width: 30px;
+    margin: 0 10px;
+}
